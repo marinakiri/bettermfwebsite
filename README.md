@@ -1,2 +1,1 @@
-# bettermfwebsite
-Projet 2 - Recréer BetterMotherFuckingWebsite
+https://marinakiri.github.io/bettermfwebsite/
